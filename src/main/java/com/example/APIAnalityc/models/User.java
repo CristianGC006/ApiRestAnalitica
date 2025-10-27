@@ -12,7 +12,7 @@ public class User {
     private Integer id;
     @Column(length = 50,nullable = false)
     private String name;
-    @Column(length = 10,nullable = false)
+    @Column(nullable = false)
     private String password;
     private LocalDateTime dateOfBirth;
 
