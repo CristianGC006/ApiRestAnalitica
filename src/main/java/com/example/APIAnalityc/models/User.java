@@ -2,7 +2,6 @@ package com.example.APIAnalityc.models;
 
 import jakarta.persistence.*;
 
-import javax.lang.model.element.Name;
 import java.time.LocalDateTime;
 
 @Entity
